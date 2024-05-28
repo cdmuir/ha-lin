@@ -1,0 +1,26 @@
+---
+title: "Template for summary report meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+    -   Recap this week's goals.
+2.  **Progress Update**
+    -   Share updates on ongoing tasks.
+3.  **Challenges and Roadblocks**
+    -   Identify any obstacles and discuss solutions.
+4.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
