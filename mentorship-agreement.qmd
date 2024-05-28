@@ -1,0 +1,64 @@
+---
+title: "Mentorship Agreement - Lin Ha"
+date: "Last updated: 2024-05-28"
+format: pdf
+editor: visual
+---
+
+The purpose of this mentorship agreement is to align mentor and mentee expectations about undergraduate research. This will help mentor and mentee to establish norms that will contribute to a successful research experience.
+
+## Goals
+
+-   Gain hands-on experience in Bayesian statistical analysis
+
+-   Learn about plant physiology and leaf responses to different light environments
+
+-   Gain experience in research, such as developing research ideas and scientific writing
+
+-   Improve teamwork and group communication skills
+
+## Steps to achieving goals
+
+-   Analyze light-response curve data from *Solanum* experiment
+
+-   Read books and primary literature on plant physiology with guidance from Professor Muir
+
+-   Write Methods and Results sections of manuscript
+
+-   Make figures and tables summarizing data analysis
+
+-   Read about discuss elements of scientific writing
+
+    -   Professor Muir will help identify guides to science writing
+
+-   Contribute to first draft of manuscript to be completed by the end of the summer (Aug. 30)
+
+## Communication
+
+-   Send short questions and comments using Slack
+
+-   Send longer communications through Email
+
+-   Text or call for urgent matters
+
+## Meetings
+
+-   Weekly goal setting meeting on Monday \@ 10 AM, in-person in Birge 211
+-   Weekly summary report meeting on Friday \@ 10 AM, in-person in Birge 211
+-   For regularly scheduled meetings, push a meeting agenda to the `agenda/` directory at least 24 hours in advance
+-   No agenda is required for *ad hoc* meetings
+-   There will more frequent *ad hoc* meetings at the beginning of the summer and as needed thereafter
+-   Request feedback from Professor Muir at least 48 hours in advance whenever possible. I may not be able to respond to last-minute requests.
+
+## Other important reminders
+
+-   Update research log daily and push to GitHub
+-   Make sure timesheets are up-to-date
+
+## Evaluation
+
+-   June 14 - structred check-in on mentoring effectiveness
+
+-   Friday meetings will include regular progress reprots
+
+-   End-of-summer survey (Professor Muir will send link to Google form)
