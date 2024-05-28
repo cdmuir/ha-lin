@@ -7,3 +7,6 @@ editor: visual
 ## 2024-05-28
 
 -   Onboarding
+-   Finished *The Life of a Leaf* chapter 1, start reading chapter 2
+-   Finished reading code step 1,2,3, read step 4 tomorrow
+-   Added some paramters explanation in README file
