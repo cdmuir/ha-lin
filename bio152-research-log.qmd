@@ -10,3 +10,9 @@ editor: visual
 -   Finished *The Life of a Leaf* chapter 1, start reading chapter 2
 -   Finished reading code step 1,2,3, read step 4 tomorrow
 -   Added some paramters explanation in README file
+
+## 2024-05-29
+
+- Finished reading code step 4
+- Finished reading the first 3 chapters of Vehtari et al., start reading chapter 4
+- Read *The Life of a leaf* chapter 2
