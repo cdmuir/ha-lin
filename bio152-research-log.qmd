@@ -13,11 +13,16 @@ editor: visual
 
 ## 2024-05-29
 
-- Finished reading code step 4
-- Finished reading the first 3 chapters of Vehtari et al., start reading chapter 4
-- Read *The Life of a leaf* chapter 2
+-   Finished reading code step 4
+-   Finished reading the first 3 chapters of Vehtari et al., start reading chapter 4
+-   Read *The Life of a leaf* chapter 2
 
 ## 2024-05-30
 
-- Finished reading Vehtari et al.(2021)
-- Start trying to write some code to test the convergence efficiency of the current fitting method
+-   Finished reading Vehtari et al.(2021)
+-   Start trying to write some code to test the convergence efficiency of the current fitting method
+
+## 2024-05-31
+
+-   Made the trace and rank plot for the model `fit1`
+-   Finished reading chapter 2 of *The Life of a Leaf*
