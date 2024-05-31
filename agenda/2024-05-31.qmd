@@ -16,11 +16,20 @@ editor: visual
     -   Set up GitHub and Zotero
     -   Start reading *Life of a Leaf*
 2.  **Progress Update**
-    -   Share updates on ongoing tasks.
+    -   Finished mentoring agreement
+    -   Timesheet not worked yet
+    -   Got the key for Birge 201
+    -   Start to revise the model
+    -   Draw the rank plots, quantile & small-interval plots to check if the fitting progress
+    -   Github and Zotero are in use
 3.  **Challenges and Roadblocks**
-    -   Identify any obstacles and discuss solutions.
+    -   Failed to identify a param groups to draw the plot
+    -   Confused about why we need to introduce acc_id and acc in the model
 4.  **Next Steps**
-    -   Plan actions for the upcoming week.
+    -   Solve the problem above
+    -   Write R script `XX_plot_convergence.r` to generate graphs automatically after model fitted
+    -   Study further about the domain knowledge behind this model
+    -   Continue to read *Life of a Leaf*
 
 ## Action Items
 
