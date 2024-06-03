@@ -26,3 +26,9 @@ editor: visual
 
 -   Made the trace and rank plot for the model `fit1`
 -   Finished reading chapter 2 of *The Life of a Leaf*
+
+## 2024-06-03
+
+-   Finished reading chapter 3 of *The Life of a Leaf*
+-   Finished reading chpater 5 of BDA3
+-   Start to make the variable name list of the brm model
