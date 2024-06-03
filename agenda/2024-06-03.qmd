@@ -1,5 +1,5 @@
 ---
-title: "Template for goal-setting meetings"
+title: "Weekly goals"
 format: pdf
 editor: visual
 ---
