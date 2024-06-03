@@ -1,0 +1,20 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+    -   Recap last week's goals and progress.
+2.  **Current Goals**
+    -   Read 3-4 chapters of *Life of a Leaf*
+    -   Finish reading Marshall & Biscoe (1980)
+    -   *BSD3* chapters 5 & 6 in particular. Skim background in Chapters 1-4 if desired.
+    -   Revise rank and trace plots
+    -   Why are leaves green?
+        -   Terashima et al. 2011 discusses one hypothesis
+        -   ? (CDM will find this paper later)
+    -   Summarize $\hat{R}$ and ESS for model parameters
+    -   Start writing methods to describe how and why you chose specific dignostic plots (trace plots, rank plots, etc.) and convergence statistics (e.g. ESS) with reference to Vehtari et al. (2021) or other papers.\
