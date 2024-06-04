@@ -32,3 +32,8 @@ editor: visual
 -   Finished reading chapter 3 of *The Life of a Leaf*
 -   Finished reading chpater 5 of BDA3
 -   Start to make the variable name list of the brm model
+
+## 2024-06-04
+
+-   Finished reading chapter 4-5 of *The Life of a Leaf*
+-   Finished reading Marshall & Biscoe (1980)
