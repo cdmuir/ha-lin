@@ -32,7 +32,7 @@ editor: visual
 ## 2024-06-03
 
 -   Finished reading chapter 3 of *The Life of a Leaf*
--   Finished reading chpater 5 of BDA3
+-   Started reading chpater 5 of BDA3
 -   Start to make the variable name list of the brm model
 
 ## 2024-06-04
@@ -43,3 +43,7 @@ editor: visual
 ## 2024-06-05
 -   Finished reading chapter 6 of *The Life of a Leaf*
 -   Finished plotting convergence diagnostic graph, listed Rhat, Bulk_ESS, Tail_ESS of main parameters of the brm model
+
+## 2024-06-06
+-   Finished reading chapter 5 of BDA3
+-   Finished reading Terashima et al.(2011)
