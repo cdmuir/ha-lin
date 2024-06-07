@@ -13,7 +13,6 @@ editor: visual
     -   Methods outline
     -   Challenge: rank-normalized $\hat{R}$ calculation
 2.  **Current Goals**
-    -   Reading
-    -   Rank plots:
-        -   ?
-        -   
+    -   Reading: ?
+    -   Review convergence diagnostics and plots
+    -   Add phylogenetic analyses
