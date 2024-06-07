@@ -1,0 +1,19 @@
+---
+title: "Weekly goals"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+    -   Reading
+    -   Rank and Trace plots
+    -   ESS and $\hat{R}$
+    -   Methods outline
+    -   Challenge: rank-normalized $\hat{R}$ calculation
+2.  **Current Goals**
+    -   Reading
+    -   Rank plots:
+        -   ?
+        -   
