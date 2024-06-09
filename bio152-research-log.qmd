@@ -47,3 +47,7 @@ editor: visual
 ## 2024-06-06
 -   Finished reading chapter 5 of BDA3
 -   Finished reading Terashima et al.(2011)
+
+## 2024-06-07
+-   Revised XX_check_convergence.R, now with $\hat{R}$, Bulk-ESS, Tail-ESS shown on the plot
+-   Started Reading chapter 6 of BDA3
