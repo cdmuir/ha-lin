@@ -5,6 +5,7 @@ editor: visual
 ---
 
 # 2024-05
+
 ## 2024-05-28
 
 -   Onboarding
@@ -29,6 +30,7 @@ editor: visual
 -   Finished reading chapter 2 of *The Life of a Leaf*
 
 # 2024-06
+
 ## 2024-06-03
 
 -   Finished reading chapter 3 of *The Life of a Leaf*
@@ -41,13 +43,21 @@ editor: visual
 -   Finished reading Marshall & Biscoe (1980)
 
 ## 2024-06-05
+
 -   Finished reading chapter 6 of *The Life of a Leaf*
 -   Finished plotting convergence diagnostic graph, listed Rhat, Bulk_ESS, Tail_ESS of main parameters of the brm model
 
 ## 2024-06-06
+
 -   Finished reading chapter 5 of BDA3
 -   Finished reading Terashima et al.(2011)
 
 ## 2024-06-07
+
 -   Revised XX_check_convergence.R, now with $\hat{R}$, Bulk-ESS, Tail-ESS shown on the plot
 -   Started Reading chapter 6 of BDA3
+
+## 2024-6-10
+
+-   Retrieved some extra information for the model *fit1*
+-   Finished reading chapter 7 of *The Life of a Leaf*
