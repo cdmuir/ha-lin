@@ -61,3 +61,8 @@ editor: visual
 
 -   Retrieved some extra information for the model *fit1*
 -   Finished reading chapter 7 of *The Life of a Leaf*
+
+## 2024-06-11
+
+-   Draft for `check_outliers` function, wait to complete
+-   Finished reading chapter 8 of *The Life of a Leaf*
