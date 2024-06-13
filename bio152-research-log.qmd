@@ -66,3 +66,12 @@ editor: visual
 
 -   Draft for `check_outliers` function, wait to complete
 -   Finished reading chapter 8 of *The Life of a Leaf*
+
+## 2024-06-12
+
+-   Finished `r/XX_check-outliers.R`
+
+## 2024-06-13
+
+-   Finished reading JOSEF C. UYEDA et al.(2018)
+-   Revised `r/XX_check-convergence.R` and related figures
