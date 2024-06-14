@@ -75,3 +75,7 @@ editor: visual
 
 -   Finished reading JOSEF C. UYEDA et al.(2018)
 -   Revised `r/XX_check-convergence.R` and related figures
+
+## 2024-06-14
+
+-   Revised `r/XX_check-outliers.R` with z-score and pareto_k implementation
