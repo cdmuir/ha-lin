@@ -1,0 +1,39 @@
+---
+title: "2024-06-14 weekly meeting"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+    -   Read 3-4 chapters of *Life of a Leaf*
+    -   Finish reading Marshall & Biscoe (1980)
+    -   *BSD3* chapters 5 & 6 in particular. Skim background in Chapters 1-4 if desired.
+    -   Revise rank and trace plots
+    -   Why are leaves green?
+        -   Terashima et al. 2011 discusses one hypothesis
+    -   Summarize $\hat{R}$ and ESS for model parameters
+    -   Start writing methods to describe how and why you chose specific dignostic plots (trace plots, rank plots, etc.) and convergence statistics (e.g. ESS) with reference to Vehtari et al. (2021) or other papers.
+2.  **Progress Update**
+    -   Finished reading first 8 chapter of *Life of a Leaf*
+    -   Finished reading Marshall and Bicoe (1980)
+    -   Finished reading Uyeda et al.(2018)
+    -   Revised Rank/Trace plots and labelled with Rhat and ESS
+    -   Written first edition of methods
+3.  **Challenges and Roadblocks**
+    -   Identify any obstacles and discuss solutions.
+4.  **Next Steps**
+    -   Finished reading BDA chapter 6
+    -   Finished reading *Statistical Rethinking* section 5.4.2
+    -   Start to build the new model
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
