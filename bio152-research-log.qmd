@@ -79,3 +79,8 @@ editor: visual
 ## 2024-06-14
 
 -   Revised `r/XX_check-outliers.R` with z-score and pareto_k implementation
+
+## 2024-06-18
+
+-   Reviewed JOSEF C. UYEDA et al.(2018)
+-   Finished reading section 14.5.2 of *Statistical Rethinking*
