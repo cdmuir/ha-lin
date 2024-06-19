@@ -57,7 +57,7 @@ editor: visual
 -   Revised XX_check_convergence.R, now with $\hat{R}$, Bulk-ESS, Tail-ESS shown on the plot
 -   Started Reading chapter 6 of BDA3
 
-## 2024-6-10
+## 2024-06-10
 
 -   Retrieved some extra information for the model *fit1*
 -   Finished reading chapter 7 of *The Life of a Leaf*
@@ -84,3 +84,10 @@ editor: visual
 
 -   Reviewed JOSEF C. UYEDA et al.(2018)
 -   Finished reading section 14.5.2 of *Statistical Rethinking*
+
+## 2024-06-19
+
+-   Revised the previous methods
+-   Written outlines for "Check Outlier" part of methods script
+-   Comments for variables in the stan code
+-   Draft for `pp_check()` in `r/XX_check-outliers.R`
