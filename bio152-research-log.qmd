@@ -91,3 +91,9 @@ editor: visual
 -   Written outlines for "Check Outlier" part of methods script
 -   Comments for variables in the stan code
 -   Draft for `pp_check()` in `r/XX_check-outliers.R`
+
+## 2024-06-21
+
+-   revised `r/03_check-outliers.R` for density plot
+-   first edition for the stan code to generate log likelihood
+-   first edition for the check outlier part in the method script
