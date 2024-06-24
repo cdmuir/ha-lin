@@ -97,3 +97,10 @@ editor: visual
 -   revised `r/03_check-outliers.R` for density plot
 -   first edition for the stan code to generate log likelihood
 -   first edition for the check outlier part in the method script
+
+## 2024-06-24
+
+-   added mean, sd, 2d figure and quantitative statistics to `r/03_check-outliers.R`
+-   added pareto k diagnostic graph
+-   slice data
+-   tested stan model for the first round
