@@ -1,0 +1,32 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+    -   Finish reading *Statistical Rethinking* section 14.5.2
+    -   Finsih reading *Bayesian Workflow* section 6.1
+    -   Revise the script of Methods, and add check outlier part to the script
+    -   Write comments for variables in the stan code
+    -   Write stan code to let the model generate the log likelihood
+    -   Revise the `r/XX_check-outliers.R` with adding pp_check() and quantitative statistics to discuss and explain the outliers
+2.  **Current Goals**
+    -   Add a quantitative statistic to explain the outliers
+    -   Further revise the outlier part in the script
+    -   Revise the stan code and maybe fit for the first round?
+    -   Further reading about posterior predictive checking
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
