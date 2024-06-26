@@ -108,3 +108,8 @@ editor: visual
 ## 2024-06-25
 
 -   Read the paper *Bayesian statistics and modelling*
+
+## 2024-06-26
+
+-   Read the paper *Bayesian statistics and modelling*
+-   Test the stan model
