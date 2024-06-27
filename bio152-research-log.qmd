@@ -113,3 +113,9 @@ editor: visual
 
 -   Read the paper *Bayesian statistics and modelling*
 -   Test the stan model
+
+## 2024-06-27
+
+-   Reformat the code in `r/03_check-outliers.R` and make new graphs
+-   Filter the outlier with studentized residuals and start fit the non phylogenetic model with filtered data
+-   Finished reading the paper *Bayesian statistics and modelling*
