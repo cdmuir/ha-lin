@@ -1,0 +1,32 @@
+---
+title: "Template for summary report meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+    -   Add a quantitative statistic to explain the outliers
+    -   Further revise the outlier part in the script
+    -   Revise the stan code and maybe fit for the first round?
+    -   Further reading about posterior predictive checking
+2.  **Progress Update**
+    -   Mean, sd, 2d grads added to explain the outliers
+    -   Test the stan model for a small subset of data and small number of iterations
+    -   New figure for the pareto k diagnostic
+    -   Read 2/3 of the *Bayesian statistics and modelling*
+3.  **Challenges and Roadblocks**
+    -   Still not clear why some entries in light_curves with high pareto k value but are not outliers to the model
+4.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
