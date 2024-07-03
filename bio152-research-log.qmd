@@ -113,3 +113,9 @@ editor: visual
 
 -   Read the paper *Bayesian statistics and modelling*
 -   Test the stan model
+
+## 2024-07-02
+
+-   Train the phylogeny model with filtered pareto k and filtered studentized residual dataset
+-   Revise the sd diff figures
+-   Revise the manuscript
