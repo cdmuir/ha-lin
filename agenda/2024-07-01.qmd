@@ -1,0 +1,35 @@
+---
+title: "2024.07.01 weekly meeting agenda"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Add a quantitative statistic to explain the outliers
+    -   Further revise the outlier part in the script
+    -   Revise the stan code and maybe fit for the first round?
+    -   Further reading about posterior predictive checking
+
+2.  **Current Goals**
+
+    -   Examine the fiitted model using filtered data
+    -   Fit the stan model with filtered data
+    -   Test the fitted model about convergence and outliers
+    -   Revise the script
+
+3.  **Next Steps**
+
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
