@@ -1,0 +1,42 @@
+---
+title: "2024.07.05 weekly meeting agenda"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+
+    -   Examine the fitted model using filtered data
+    -   Fit the stan model with filtered data
+    -   Test the fitted model about convergence and outliers
+    -   Revise the script
+    -   More info on PIT
+    -   Revise the sd_diff figure
+    -   pull out the extreme value from the sd_diff figure
+2.  **Progress Update**
+
+    -   Examined the fitted model using filtered data
+    -   Fitted the stan model with filterer data
+    -   Revised the manuscript
+    -   Revised the sd_diff figure and pulled out the extreme value
+    -   Tested the fitted model about convergence
+3.  **Challenges and Roadblocks**
+
+    -   Failed to save the stan model with filtered data
+    -   Stan model does not fully converge
+4.  **Next Steps**
+
+    -   save the fitted model with filtered data
+    -   Revise the model to find out what is wrong
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
