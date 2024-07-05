@@ -131,3 +131,7 @@ editor: visual
 
 -   read *Visualization in Bayesian workflow*
 -   read about how PIT works
+
+## 2024-07-04
+
+-   make graphs for the model with phylo information, starting with convergence test
