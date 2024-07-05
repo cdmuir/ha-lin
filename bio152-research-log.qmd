@@ -114,16 +114,20 @@ editor: visual
 -   Read the paper *Bayesian statistics and modelling*
 -   Test the stan model
 
-<<<<<<< HEAD
-## 2024-07-02
 
--   Train the phylogeny model with filtered pareto k and filtered studentized residual dataset
--   Revise the sd diff figures
--   Revise the manuscript
-=======
 ## 2024-06-27
 
 -   Reformat the code in `r/03_check-outliers.R` and make new graphs
 -   Filter the outlier with studentized residuals and start fit the non phylogenetic model with filtered data
 -   Finished reading the paper *Bayesian statistics and modelling*
->>>>>>> 6509575726946ee97a8300e0ea0859509aa14ef9
+
+## 2024-07-02
+
+-   Train the phylogeny model with filtered pareto k and filtered studentized residual dataset
+-   Revise the sd diff figures
+-   Revise the manuscript
+
+## 2024-07-03
+
+-   read *Visualization in Bayesian workflow*
+-   read about how PIT works

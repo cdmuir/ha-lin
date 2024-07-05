@@ -19,6 +19,9 @@ editor: visual
     -   Fit the stan model with filtered data
     -   Test the fitted model about convergence and outliers
     -   Revise the script
+    -   More info on PIT
+    -   Revise the sd_diff figure
+    -   pull out the extreme value from the sd_diff figure
 
 3.  **Next Steps**
 
