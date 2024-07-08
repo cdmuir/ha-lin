@@ -121,6 +121,8 @@ editor: visual
 -   Filter the outlier with studentized residuals and start fit the non phylogenetic model with filtered data
 -   Finished reading the paper *Bayesian statistics and modelling*
 
+# 2024-07
+
 ## 2024-07-02
 
 -   Train the phylogeny model with filtered pareto k and filtered studentized residual dataset
@@ -140,3 +142,8 @@ editor: visual
 
 -   revise graphs for the model with phylo information
 -   assesses why the 3rd chain is deviated from others
+
+## 2024-07-08
+
+-   extract the draws data from brm and stan model chain 1,2,4, and generate figures to show the distribution of these draws
+-   Revise the parameter of the stan model
