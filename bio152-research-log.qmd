@@ -135,3 +135,8 @@ editor: visual
 ## 2024-07-04
 
 -   make graphs for the model with phylo information, starting with convergence test
+
+## 2024-07-05
+
+-   revise graphs for the model with phylo information
+-   assesses why the 3rd chain is deviated from others
