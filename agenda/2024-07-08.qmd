@@ -1,0 +1,34 @@
+---
+title: "2024.07.08 weekly meeting agenda"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Examine the fitted model using filtered data
+    -   Fit the stan model with filtered data
+    -   Test the fitted model about convergence and outliers
+    -   Revise the script
+    -   More info on PIT
+    -   Revise the sd_diff figure
+    -   pull out the extreme value from the sd_diff figure
+2.  **Current Goals**
+
+    -   Revise the code for generating figures for cmdstanfit objects
+    -   Try to find out why there is a chain always not mixed with others
+    -   Revise the manuscript to discuss about our strategy to fit this new model
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
