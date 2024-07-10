@@ -147,3 +147,8 @@ editor: visual
 
 -   extract the draws data from brm and stan model chain 1,2,4, and generate figures to show the distribution of these draws
 -   Revise the parameter of the stan model
+
+## 2024-07-10
+
+-   Finished revise the paramter of the stan model
+-   Revised the manuscript
