@@ -152,3 +152,11 @@ editor: visual
 
 -   Finished revise the paramter of the stan model
 -   Revised the manuscript
+
+## 2024-07-11
+
+-   Write the manuscript about fitting model with `brms` and *stan*
+
+## 2024-07-12
+
+-   Write the code to generate a table with parameter overview
