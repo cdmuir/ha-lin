@@ -23,6 +23,7 @@ editor: visual
     -   Run ppc and convergence test for the newly trained model, find out what is wrong
     -   Revise the model
 3.  **Next Steps**
+
     -   Plan actions for the upcoming week.
 
 ## Action Items
