@@ -1,0 +1,36 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+    
+    -   Revise the code for generating figures for cmdstanfit objects
+    -   Try to find out why there is a chain always not mixed with others
+    -   Revise the manuscript to discuss about our strategy to fit this new model
+    -   Address old comments on **Model Evaluation** subsection
+    -   Address new comments on **Check Outliers** subsection
+    -   Address new comments **Posterior Predictive Checking** subsection
+    -   Start draft Methods subsection on **Model fitting**
+        -   First describe nonphylogenetic model using **brms**
+        -   Next, describe phylogenetic model using **cmdstanr**
+2.  **Current Goals**
+
+    -   Futher revise the manuscript based on comments
+    -   Run ppc and convergence test for the newly trained model, find out what is wrong
+    -   Revise the model
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
