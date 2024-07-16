@@ -164,3 +164,8 @@ editor: visual
 
 -   Beautify the table
 -   Run the ppc and convergence test for brm_param model
+
+## 2024-07-16
+
+-   Finished the ppc and convergence test for stan_param and no-phylo model of cmdstanfit
+-   Revise the *Method* part in the manuscript
