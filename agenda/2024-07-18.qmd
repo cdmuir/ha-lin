@@ -1,0 +1,33 @@
+---
+title: "Template for summary report meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+
+    -   Futher revise the manuscript based on comments
+    -   Run ppc and convergence test for the newly trained model, find out what is wrong
+    -   Revise the model
+2.  **Progress Update**
+
+    -   generated graphs for ppc and convergence test
+    -   revised the manuscript based on the comment, added R package version and citation to function used
+    -   revised the table based on the comment
+3.  **Challenges and Roadblocks**
+
+    -   Waiting to revise the model
+4.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
