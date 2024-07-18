@@ -169,3 +169,13 @@ editor: visual
 
 -   Finished the ppc and convergence test for stan_param and no-phylo model of cmdstanfit
 -   Revise the *Method* part in the manuscript
+
+## 2024-07-17
+
+-   Revised the *Method* part in the manuscript by adding citations and writing mathematical formulas
+
+## 2024-07-18
+
+-   Updated the stan model prior distribution
+-   Updated the table with stan model parameter
+-   Build the new table which group by acc
