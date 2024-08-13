@@ -5,18 +5,20 @@ editor: visual
 ---
 
 ## Agenda
-1. **Review Previous Goals**
-   - Recap last week's goals and progress.
-2. **Current Goals**
-   - Discuss this week's research objectives.
-3. **Next Steps**
-   - Plan actions for the upcoming week.
+
+1.  **Review Previous Goals**
+    -   Recap last week's goals and progress.
+2.  **Current Goals**
+    -   Discuss this week's research objectives.
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
 
 ## Action Items
-- [ ] Task 1: ...
-- [ ] Task 2: ...
-- [ ] Task 3: ...
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
 
 ## Additional Notes
-- Remember to track progress and adjust goals as needed.
 
+-   Remember to track progress and adjust goals as needed.

@@ -1,0 +1,30 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Futher revise the manuscript based on comments
+    -   Run ppc and convergence test for the newly trained model, find out what is wrong
+    -   Revise the model
+2.  **Current Goals**
+
+    -   Inpected the revised model, still needs to revise
+      -   Try out revise the correlation coefficients of the stan model while keep intercept coefficients unchange
+    -   Add description in manuscript to explain how we revise the model
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
