@@ -179,3 +179,10 @@ editor: visual
 -   Updated the stan model prior distribution
 -   Updated the table with stan model parameter
 -   Build the new table which group by acc
+
+# 2024-08
+
+## 2024-08-13
+
+-   Revised the stan model
+-   Generated the stationary variance of parameters among accessions under different light treatments
