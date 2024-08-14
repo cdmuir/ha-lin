@@ -186,3 +186,7 @@ editor: visual
 
 -   Revised the stan model
 -   Generated the stationary variance of parameters among accessions under different light treatments
+
+## 2024-08-14
+
+-   Updated questions in the result section
