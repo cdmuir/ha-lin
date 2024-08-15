@@ -1,0 +1,33 @@
+---
+title: "2024.08.15 weekly meeting"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+
+    -   Inpected the revised model, still needs to revise
+      -   Try out revise the correlation coefficients of the stan model while keep intercept coefficients unchange
+    -   Add description in manuscript to explain how we revise the model
+2.  **Progress Update**
+
+    -   Revised the model, finsihed fitting
+    -   Answered the first two questions in the *Introduction* section
+    -   Inspected the newly trained model
+3.  **Challenges and Roadblocks**
+
+    -   Need some clarification of question 3-5
+4.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
