@@ -190,3 +190,12 @@ editor: visual
 ## 2024-08-14
 
 -   Updated questions in the result section
+
+## 2024-08-15
+
+-   Updated questions in the result section
+
+## 2024-08-19
+
+-   Updated question 2 in the result section
+-   Refactor question 3,4 in the result section
