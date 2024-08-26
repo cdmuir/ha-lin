@@ -1,0 +1,31 @@
+---
+title: "2024.08.26 weekly meetin agenda"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Finish question 5 in the result section
+    -   Revise question 2 in the result section
+    -   Start working on question 6 in the result section
+    -   Beutify rank/trace plots
+2.  **Current Goals**
+
+    -   Finish `r/XX_variance_sensitivity_analysis.R`
+    -   Embed the result to `ms/ms.qmd`
+    -   Revise the manuscript
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
