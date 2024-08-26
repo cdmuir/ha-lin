@@ -204,7 +204,17 @@ editor: visual
 - Updated questions in the result section
 - Embed the result into `ms/ms.qmd` from question 1-4
 
-## 2024-08-19
+## 2024-08-21
 
 -   Updated question 2 in the result section
--   Refactor question 3,4 in the result section
+-   Refactored question 3,4 in the result section
+
+## 2024-08-22
+
+-   Updated output form of question 3, 4 in `ms/ms.qmd`
+-   Researched about question 6
+
+## 2024-08-23
+
+-   Researched about question 6
+-   attempted to write question 6
