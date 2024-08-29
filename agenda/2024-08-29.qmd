@@ -1,0 +1,33 @@
+---
+title: "2024.08.29 weekly meeting agenda"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Current Goals**
+
+    -   Finish `r/XX_variance_sensitivity_analysis.R`
+    -   Embed the result to `ms/ms.qmd`
+    -   Revise question 3,4 in the manuscript
+    -   Gnerate figures for median of posterior for each parameter
+2.  **Progress Update**
+
+    -   Revised question 3,4 in the manuscript
+    -   Gnerated figures for median of posterior for each parameter
+3.  **Challenges and Roadblocks**
+
+    -   Still didn't located the bug in `r/XX_variance_sensitivity_analysis.R`
+4.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
