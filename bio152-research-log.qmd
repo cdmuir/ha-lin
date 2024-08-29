@@ -197,12 +197,12 @@ editor: visual
 
 ## 2024-08-19
 
-- Updated questions in the result section
+-   Updated questions in the result section
 
 ## 2024-08-20
 
-- Updated questions in the result section
-- Embed the result into `ms/ms.qmd` from question 1-4
+-   Updated questions in the result section
+-   Embed the result into `ms/ms.qmd` from question 1-4
 
 ## 2024-08-21
 
@@ -218,3 +218,14 @@ editor: visual
 
 -   Researched about question 6
 -   attempted to write question 6
+
+## 2024-08-27
+
+-   Revised question 3
+
+## 2024-08-28
+
+-   Revised question 4
+-   Refactored question 3,4
+-   Generated the figure
+-   Locating bug of variance-based sensitivity analysis
