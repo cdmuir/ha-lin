@@ -1,0 +1,31 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Finish `r/XX_variance_sensitivity_analysis.R`
+    -   Embed the result to `ms/ms.qmd`
+    -   Revise question 3,4 in the manuscript
+    -   Gnerate figures for median of posterior for each parameter
+2.  **Current Goals**
+
+    -   Add explanation of Sobol sensitivity test to manuscript
+    -   Analyze the result
+    -   Wrap up all the unfinished work
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
