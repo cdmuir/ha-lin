@@ -229,3 +229,14 @@ editor: visual
 -   Refactored question 3,4
 -   Generated the figure
 -   Locating bug of variance-based sensitivity analysis
+
+# 2024-09
+
+## 2024-09-07
+
+-   Revised the reaction norm figure
+
+## 2024-09-09
+
+-   Embeded the sobol sensitivity analysis and reaction norm figure into the manuscript
+-   Updated the manuscript about the sobol test's purpose
