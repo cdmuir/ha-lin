@@ -1,0 +1,29 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Add explanation of Sobol sensitivity test to manuscript
+    -   Analyze the result
+    -   Wrap up all the unfinished work
+2.  **Current Goals**
+
+    -   Add the mathematical principal of sobol sensitivity analysis to the manuscript?
+    -   Revise the manuscript based on reflection
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
