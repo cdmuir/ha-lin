@@ -1,0 +1,28 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Add the mathematical principal of sobol sensitivity analysis to the manuscript?
+    -   Revise the manuscript based on reflection
+    -   Generate the scatter plot to show the relation between Asat and ThetaJ
+2.  **Current Goals**
+
+    -   Expand the bullet point of sobol sensitivity analysis to the manuscript
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
