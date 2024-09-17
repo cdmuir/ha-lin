@@ -240,3 +240,8 @@ editor: visual
 
 -   Embeded the sobol sensitivity analysis and reaction norm figure into the manuscript
 -   Updated the manuscript about the sobol test's purpose
+
+## 2024-09-16
+
+-   Generated figures
+-   Updated the reference
