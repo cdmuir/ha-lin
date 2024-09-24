@@ -8,14 +8,13 @@ editor: visual
 
 1.  **Review Previous Goals**
 
-    -   Add the mathematical principal of sobol sensitivity analysis to the manuscript?
-    -   Revise the manuscript based on reflection
-    -   Generate the scatter plot to show the relation between Asat and ThetaJ
-2.  **Current Goals**
-
     -   Expand the bullet point of sobol sensitivity analysis to the manuscript
     -   Update Sobol Sensitivity Analysis with different parameters under different light treatments
     -   Try out PhySo
+2.  **Current Goals**
+
+    -   Try out PhySo
+    -   Revise the Sobol Sensitivity Analysis part in the manuscript
 3.  **Next Steps**
     -   Plan actions for the upcoming week.
 
