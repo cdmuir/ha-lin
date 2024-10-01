@@ -1,0 +1,27 @@
+---
+title: "Template for goal-setting meetings"
+format: pdf
+editor: visual
+---
+
+## Agenda
+
+1.  **Review Previous Goals**
+
+    -   Try out PhySo
+    -   Revise the Sobol Sensitivity Analysis part in the manuscript
+2.  **Current Goals**
+
+    -   Maybe try more epochs of PhySo?
+3.  **Next Steps**
+    -   Plan actions for the upcoming week.
+
+## Action Items
+
+-   [ ] Task 1: ...
+-   [ ] Task 2: ...
+-   [ ] Task 3: ...
+
+## Additional Notes
+
+-   Remember to track progress and adjust goals as needed.
